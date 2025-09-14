@@ -67,7 +67,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 ```
 
-### **Step 3: Run the pipeline in main.py
+### **Step 4: Run the pipeline in main.py
 ```bash
 python main.py
 ```
