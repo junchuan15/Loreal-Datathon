@@ -90,4 +90,4 @@ python main.py
 - DimHashtag & BridgeHashtag: Hashtag mappings across videos and comments.
 
 ## Dashboard Access
-You can view the Power BI dashboard via this link: [Link to Dashboard]([https://platform.openai.com/signup](https://app.powerbi.com/view?r=eyJrIjoiY2FjYzU4ZWYtYjZmMy00YzY2LWI2YzYtMzAyYWE2YTA5NDAxIiwidCI6ImE2M2JiMWE5LTQ4YzItNDQ4Yi04NjkzLTMzMTdiMDBjYTdmYiIsImMiOjEwfQ%3D%3D)
+You can view the Power BI dashboard via this link: [Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2FjYzU4ZWYtYjZmMy00YzY2LWI2YzYtMzAyYWE2YTA5NDAxIiwidCI6ImE2M2JiMWE5LTQ4YzItNDQ4Yi04NjkzLTMzMTdiMDBjYTdmYiIsImMiOjEwfQ%3D%3D)
