@@ -25,7 +25,7 @@ Due to the large size of raw YouTube data, the pipeline expects a **single zippe
 2. Zip them as `data.zip` in the same folder: `dataset/staging/data.zip`.
 
 ---
-
+```bash
 ## Project Structure
 root/
 ├─ dataset/ # Input and output datasets
@@ -40,7 +40,7 @@ root/
 │ └─ prod_cat_clustering.py
 ├─ main.py # Main pipeline driver
 └─ requirements.txt # Python dependencies
-
+```
 ---
 ## **Getting Started**  
 
